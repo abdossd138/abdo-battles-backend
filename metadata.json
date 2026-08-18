@@ -1,0 +1,6 @@
+{
+  "name": "Abdo Battles",
+  "description": "Official Abdo Battles: 5v5 tactical anime arena with classic auctions, mystery box drafts, 1-100 rating scale, compensation disparity rule, power cards, and instant battle simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
